@@ -53,6 +53,3 @@ I can build pixel-perfect UIs while vibing to lo-fi beats at 2 AM 🌙🎧
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
----
-
-![Eftajul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eftajulshadi&show_icons=true&theme=radical)
