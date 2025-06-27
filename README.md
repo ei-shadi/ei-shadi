@@ -6,6 +6,7 @@
 <h1 align="center" style="font-weight: 600; font-style: italic; color:#0ea5e9;">
   <span style="font-size: 24px; vertical-align: middle; margin-right: 8px;">◐</span>
   <em>Welcome to my Darkside</em>
+  <span style="font-size: 24px; vertical-align: middle; margin-right: 8px;">◐</span>
 </h1>
 
 ---
