@@ -3,11 +3,11 @@
   <img src="https://raw.githubusercontent.com/ei-shadi/ei-shadi/refs/heads/main/Banner.png" alt="Welcome Banner" style="border-radius:12px; max-width:100%; height:auto;" />
 </p>
 
-<h1 align="center" style="font-weight: 600; font-style: italic; color:#0ea5e9;">
-  <span style="font-size: 24px; vertical-align: middle; margin-right: 8px;">◐</span>
-  <em>Welcome to my Darkside</em>
-  <span style="font-size: 24px; vertical-align: middle; margin-right: 8px;">◐</span>
+<h1 align="center" style="margin-top:1rem; margin-bottom:1rem;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=ed5a00&center=true&vCenter=true&width=700&lines=Hi+!+Welcome+To+My+Darkside;I+am+Eftajul+Islam+Shadi;Full+Stack+Developer+%7C+Next.js+Enthusiast;Exploring+Typescript+%2C+Redux+and+Cloud+Tech;I+Love+To+Exploreing+Chalangreing+Technology" alt="Typing SVG"/>
 </h1>
+
 
 ---
 
