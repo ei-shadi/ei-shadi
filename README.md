@@ -113,9 +113,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 </div>
 
 <!-- 🐍 Contribution Snake -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🐍+Contribution+Snake" alt="Snake Typing SVG" />
-</h1>
+![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ei-shadi/ei-shadi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
