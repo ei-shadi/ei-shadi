@@ -11,7 +11,7 @@
 ---
 
 <!-- 🧑‍💻 About Me -->
-<h1 align="center" style="margin-top:1rem; margin-bottom:1rem;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🧑‍💻+About+Me" alt="About Me Typing SVG" />
 </h1>
 
@@ -34,7 +34,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 - Docker for containerization  
 - AWS for cloud services and deployment  
 
-<h3 align="center" style="font-size:1.2rem; margin-top:1rem;">
+<h3 align="center" style="font-size:1.2rem;">
   🚀 I love <span style="color:#0ea5e9; font-weight:700;">exploring challenging technologies</span> and 
   <span style="color:#22c55e; font-weight:700;">leveling up my skills</span><br/>
   with the latest tools and frameworks to build 
@@ -44,7 +44,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 ---
 
 <!-- 🛠️ Tech Stack -->
-<h1 align="center" style="margin-top:1rem; margin-bottom:1rem;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🛠️+Tech+Stack" alt="Tech Stack Typing SVG" />
 </h1>
 
@@ -61,12 +61,11 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 ---
 
 <!-- 📬 Connect With Me -->
-<h1 align="center" style="margin-top:1rem; margin-bottom:1rem;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🌐+Connect+With+Me" alt="Connect With Me Typing SVG" />
 </h1>
-<p style="text-align: center; margin-bottom: 0.5rem;">
-    Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!
-</p>
+
+<p style="text-align: center;">Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</p>
 
 <section id="contact" style="color: #fff; padding: 2rem; background-color: #0e0e0e; border-radius: 10px; max-width: 700px; margin: auto;">
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
@@ -98,7 +97,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 ---
 
 <!-- 📊 GitHub Stats -->
-<h1 align="center" style="margin-top:1rem; margin-bottom:1rem;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=📊+GitHub+Stats" alt="GitHub Stats Typing SVG" />
 </h1>
 
@@ -113,10 +112,19 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" />
 </div>
 
+<!-- 🐍 Contribution Snake -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🐍+Contribution+Snake" alt="Snake Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ei-shadi/ei-shadi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 <!-- 🎯 Fun Fact -->
-<h1 align="center" style="margin-top:1rem; margin-bottom:1rem;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🎯+Fun+Fact" alt="Fun Fact Typing SVG" />
 </h1>
 
@@ -126,4 +134,4 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 
 ---
 
-> <p align="center" style="font-size: 1.1rem; font-weight: 600; color:#0ea5e9; margin-top: 0;">"The only way to do great work is to love what you do." – Steve Jobs</p>
+> <p align="center" style="font-size: 1.1rem; font-weight: 600; color:#0ea5e9;">"The only way to do great work is to love what you do." – Steve Jobs</p>
