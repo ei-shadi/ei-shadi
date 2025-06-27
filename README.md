@@ -115,10 +115,6 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 <!-- 🐍 Contribution Snake -->
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ei-shadi/ei-shadi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 <!-- 🎯 Fun Fact -->
