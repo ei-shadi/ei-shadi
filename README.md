@@ -50,7 +50,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 
 <!-- 🛠️ Tech Stack -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=100&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🛠️+Tech+Stack" alt="Tech Stack Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=5000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🛠️+Tech+Stack" alt="Tech Stack Typing SVG" />
 </h1>
 
 <h2>⚡ My Code Runs on These Engines</h2>
@@ -67,7 +67,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 
 <!-- 📬 Connect With Me -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=100&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🌐+Connect+With+Me" alt="Connect With Me Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=5000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🌐+Connect+With+Me" alt="Connect With Me Typing SVG" />
 </h1>
 
 <p style="text-align: center;">Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</p>
@@ -103,7 +103,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 
 <!-- 📊 GitHub Stats -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=100&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=📊+GitHub+Stats" alt="GitHub Stats Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=5000&color=5CE1E6&center=true&vCenter=true&width=700&lines=📊+GitHub+Stats" alt="GitHub Stats Typing SVG" />
 </h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; max-width: 600px; margin:auto;">
@@ -124,7 +124,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 
 <!-- 🎯 Fun Fact -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=100&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🎯+Fun+Fact" alt="Fun Fact Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=500&pause=5000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🎯+Fun+Fact" alt="Fun Fact Typing SVG" />
 </h1>
 
 <p align="center" style="font-size: 1.25rem; font-style: italic; color:#facc15;">
