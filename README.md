@@ -5,8 +5,10 @@
 
 <h1 align="center" style="margin-top:1rem; margin-bottom:1rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=ed5a00&center=true&vCenter=true&width=700&lines=Hi!+Welcome+to+My+Darkside;I+am+Eftajul+Islam+Shadi;MERN+Stack+Developer+;Exploring+TypeScript%2C+Redux%2C+and+Cloud+Tech;I+Love+Exploring+Challenging+Technology" alt="Typing SVG" />
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=ed5a00&center=true&vCenter=true&width=700&lines=Hi+👋🏻+Welcome+to+My+Darkside+⚫;I+am+Eftajul+Islam+Shadi;MERN+Stack+Developer+;Exploring+TypeScript%2C+Redux%2C+and+Cloud+Tech;I+Love+Exploring+Challenging+Technology"
+    alt="Typing SVG" />
 </h1>
+
 
 ---
 
