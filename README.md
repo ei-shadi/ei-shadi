@@ -18,7 +18,7 @@
 
 I'm a passionate **frontend developer** dedicated to crafting delightful, responsive, and performant web applications. I enjoy transforming designs into clean, efficient code and working with real-time data to create smooth, dynamic user experiences.
 
-💡 **What I've learned so far:**
+💡 **What I've learned so far : **
 
 - HTML, CSS, Tailwind CSS  
 - JavaScript & React  
@@ -26,7 +26,7 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 - Node.js, Express.js  
 - MongoDB  
 
-🚀 *Next up in my development journey:**
+🚀 **Next up in my development journey : **
 
 - TypeScript  
 - Redux for state management  
