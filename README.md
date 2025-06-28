@@ -18,7 +18,7 @@
 
 I'm a passionate **frontend developer** dedicated to crafting delightful, responsive, and performant web applications. I enjoy transforming designs into clean, efficient code and working with real-time data to create smooth, dynamic user experiences.
 
-💡 **What I've learned so far : **
+<h4>💡 What I've learned so far :</h4>
 
 - HTML, CSS, Tailwind CSS  
 - JavaScript & React  
