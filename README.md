@@ -13,7 +13,7 @@
 
 <!-- 🧑‍💻 About Me -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🧑‍💻+About+Me" alt="About Me Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=10&pause=10000&color=5CE1E6&center=true&vCenter=true&width=900&lines=🧑‍💻+About+Me" alt="About Me Typing SVG" />
 </h1>
 
 I'm a passionate **frontend developer** dedicated to crafting delightful, responsive, and performant web applications. I enjoy transforming designs into clean, efficient code and working with real-time data to create smooth, dynamic user experiences.
