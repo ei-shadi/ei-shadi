@@ -19,8 +19,8 @@
 I'm a passionate **frontend developer** dedicated to crafting delightful, responsive, and performant web applications. I enjoy transforming designs into clean, efficient code and working with real-time data to create smooth, dynamic user experiences.
 
 <h3>
-  <em>💡 What I've learned so far :</em>
-</h4>
+  💡 What I've learned so far :
+</h3>
 
 - HTML, CSS, Tailwind CSS  
 - JavaScript & React  
@@ -28,7 +28,9 @@ I'm a passionate **frontend developer** dedicated to crafting delightful, respon
 - Node.js, Express.js  
 - MongoDB  
 
-🚀 **Next up in my development journey : **
+<h3>
+ 🚀 Next up in my development journey :
+</h3>
 
 - TypeScript  
 - Redux for state management  
