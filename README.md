@@ -17,7 +17,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=8000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🧑‍💻+About+Me" alt="About Me Typing SVG" />
 </h1>
 
-I'm a passionate full-stack web developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies
+<p style="font-size:2rem;">
+  I'm a passionate full-stack web developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies
+</p>
 
 <h3>
   💡 What I've learned so far :
