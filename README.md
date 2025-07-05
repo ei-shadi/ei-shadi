@@ -14,31 +14,34 @@
 
 <!-- 🧑‍💻 About Me -->
 <h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🧑‍💻 About Me</h1>
-
 <h4>
-  I'm a passionate full-stack web developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies
+  I'm a passionate full-stack web developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies.
 </h4>
 
 <h3>
-  💡 What I've learned so far :
+  💡 What I've learned so far:
 </h3>
 
-- HTML, CSS, Tailwind CSS  
-- JavaScript & React  
-- Firebase (Authentication & Firestore)  
-- Node.js, Express.js  
-- MongoDB  
+<ul>
+  <li>HTML, CSS, Tailwind CSS</li>
+  <li>JavaScript & React</li>
+  <li>Firebase (Authentication & Firestore)</li>
+  <li>Node.js, Express.js</li>
+  <li>MongoDB</li>
+</ul>
 
 <h3>
- 🚀 Next up in my development journey :
+  🚀 Next up in my development journey:
 </h3>
 
-- TypeScript  
-- Redux for state management  
-- Next.js for powerful server-side rendering  
-- SQL, PostgreSQL & Prisma for advanced database handling  
-- Docker for containerization  
-- AWS for cloud services and deployment  
+<ul>
+  <li>TypeScript</li>
+  <li>Redux for state management</li>
+  <li>Next.js for powerful server-side rendering</li>
+  <li>SQL, PostgreSQL & Prisma for advanced database handling</li>
+  <li>Docker for containerization</li>
+  <li>AWS for cloud services and deployment</li>
+</ul>
 
 <h3 align="center" style="font-size:1.2rem;">
   🚀 I love <span style="color:#0ea5e9; font-weight:700;">exploring challenging technologies</span> and 
@@ -46,6 +49,12 @@
   with the latest tools and frameworks to build 
   <span style="color:#facc15; font-weight:700;">next-gen web apps</span> 💻🌐✨
 </h3>
+
+<h4>
+  🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
+  🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
+</h4>
+
 
 ---
 
