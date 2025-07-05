@@ -83,7 +83,6 @@
     <li><strong>Email:</strong> <a href="mailto:eftajulislam.shaadi@gmail.com" style="color: #4EA1D3;">eftajulislam.shaadi@gmail.com</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eftajulshadi" target="_blank" style="color: #4EA1D3;">linkedin.com/in/eftajulshadi</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.facebook.com/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">facebook.com/eftajulislamshadi</a></li>
-    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/ei_shadi" target="_blank" style="color: #4EA1D3;">instagram.com/ei_shadi</a></li>
     <li><strong>Portfolio:</strong> <a href="https://www.eftajulshadi.dev" target="_blank" style="color: #4EA1D3;">eftajulshadi.dev</a></li>
   </ul>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem; gap: 12px;">
@@ -93,10 +92,7 @@
     <a href="https://www.facebook.com/eftajulislamshadi" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" alt="Facebook" />
     </a>
-    <a href="https://www.instagram.com/ei_shadi" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" alt="Instagram" />
-    </a>
-    <a href="https://linkedin.com/in/eftajulshadi" target="_blank">
+    <a href="https://linkedin.com/in/eftajulislamshadi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
     </a>
     <a href="https://www.eftajulshadi.dev" target="_blank">
