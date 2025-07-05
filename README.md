@@ -10,16 +10,12 @@
     style="max-width: 100%; height: auto;" />
 </div>
 
-
-
 ---
 
 <!-- 🧑‍💻 About Me -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🧑‍💻+About+Me" alt="About Me Typing SVG" />
-</h1>
+<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🧑‍💻 About Me</h1>
 
-<h4 >
+<h4>
   I'm a passionate full-stack web developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies
 </h4>
 
@@ -54,9 +50,7 @@
 ---
 
 <!-- 🛠️ Tech Stack -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🛠️+Tech+Stack" alt="Tech Stack Typing SVG" />
-</h1>
+<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🛠️ Tech Stack</h1>
 
 <h2>⚡ My Code Runs on These Engines</h2>
 
@@ -71,9 +65,7 @@
 ---
 
 <!-- 📬 Connect With Me -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🌐+Connect+With+Me" alt="Connect With Me Typing SVG" />
-</h1>
+<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🌐 Connect With Me</h1>
 
 <p style="text-align: center;">Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</p>
 
@@ -107,9 +99,7 @@
 ---
 
 <!-- 📊 GitHub Stats -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=500&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=📊+GitHub+Stats" alt="GitHub Stats Typing SVG" />
-</h1>
+<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">📊 GitHub Stats</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; max-width: 600px; margin:auto;">
   <div style="display: flex; gap: 24px; justify-content: center; flex-grow:1; min-width: 320px;">
@@ -128,9 +118,7 @@
 ---
 
 <!-- 🎯 Fun Fact -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=500&pause=10000&color=5CE1E6&center=true&vCenter=true&width=700&lines=🎯+Fun+Fact" alt="Fun Fact Typing SVG" />
-</h1>
+<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🎯 Fun Fact</h1>
 
 <p align="center" style="font-size: 1.25rem; font-style: italic; color:#facc15;">
   ☕ I can turn your Figma dreams into fully functional responsive UIs while sipping tea and blasting lo-fi at 2 AM 🌙🎧
@@ -138,4 +126,6 @@
 
 ---
 
-> <p align="center" style="font-size: 1.1rem; font-weight: 600; color:#0ea5e9;">"The only way to do great work is to love what you do." – Steve Jobs</p>
+<p align="center" style="font-size: 1.1rem; font-weight: 600; color:#0ea5e9;">
+  "The only way to do great work is to love what you do." – Steve Jobs
+</p>
