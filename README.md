@@ -5,14 +5,14 @@
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&pause=10000&color=00d8ff&center=true&vCenter=true&width=1400&lines=Hi!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=5000&pause=10000&color=00d8ff&center=true&vCenter=true&width=1400&lines=Hi!"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=5000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=🖤Welcome+to+My+Darkside+⚫"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=5000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=🖤Welcome+to+My+Darkside+⚫"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
