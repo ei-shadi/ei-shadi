@@ -50,7 +50,7 @@
 <ul>
   <li>TypeScript</li>
   <li>Redux for state management</li>
-  <li>Next.js for powerful server-side rendering</li>
+  <li>Master Next.js for professional-grade server-side rendering.</li>
   <li>SQL, PostgreSQL & Prisma for advanced database handling</li>
   <li>Docker for containerization</li>
   <li>AWS for cloud services and deployment</li>
