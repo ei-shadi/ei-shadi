@@ -44,10 +44,10 @@
 </ul>
 
 <h3 align="center" style="font-size:1.2rem;">
-  🚀 I love <span style="color:#0ea5e9; font-weight:700;">exploring challenging technologies</span> and 
+  🖤 I love <span style="color:#0ea5e9; font-weight:700;">exploring challenging technologies</span> and 
   <span style="color:#22c55e; font-weight:700;">leveling up my skills</span><br/>
   with the latest tools and frameworks to build 
-  <span style="color:#facc15; font-weight:700;">next-gen web apps</span> 💻🌐✨
+  <span style="color:#facc15; font-weight:700;">next-gen web apps</span> 🗯️✨
 </h3>
 
 ---
@@ -70,7 +70,7 @@
 <!-- 📬 Connect With Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🌐 Connect With Me</h1>
 
-<p style="text-align: center;">Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</p>
+<h3">🖤Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</h3>
 
 <section id="contact" style="color: #fff; padding: 2rem; background-color: #0e0e0e; border-radius: 10px; max-width: 700px; margin: auto;">
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
@@ -95,7 +95,7 @@
   </div>
 </section>
 
-<h3>
+<h4>
   🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
   🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
 </h4>
