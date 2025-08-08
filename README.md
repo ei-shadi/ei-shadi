@@ -129,7 +129,9 @@
 
 
 <!-- 🐍 Contribution Snake -->
-![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 
 <!-- 🎯 Fun Fact -->
