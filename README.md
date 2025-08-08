@@ -70,7 +70,7 @@
 <!-- 📬 Connect With Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🌐 Connect With Me</h1>
 
-<h3">🖤Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</h3>
+<h3>🖤Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</h3>
 
 <section id="contact" style="color: #fff; padding: 2rem; background-color: #0e0e0e; border-radius: 10px; max-width: 700px; margin: auto;">
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
