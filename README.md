@@ -50,12 +50,6 @@
   <span style="color:#facc15; font-weight:700;">next-gen web apps</span> 💻🌐✨
 </h3>
 
-<h4>
-  🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
-  🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
-</h4>
-
-
 ---
 
 <!-- 🛠️ Tech Stack -->
@@ -81,7 +75,7 @@
 <section id="contact" style="color: #fff; padding: 2rem; background-color: #0e0e0e; border-radius: 10px; max-width: 700px; margin: auto;">
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
     <li><strong>Email:</strong> <a href="mailto:eftajulislam.shaadi@gmail.com" style="color: #4EA1D3;">eftajulislam.shaadi@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eftajulshadi" target="_blank" style="color: #4EA1D3;">linkedin.com/in/eftajulshadi</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">linkedin.com/in/eftajulislamshadi</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.facebook.com/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">facebook.com/eftajulislamshadi</a></li>
     <li><strong>Portfolio:</strong> <a href="https://www.eftajulshadi.dev" target="_blank" style="color: #4EA1D3;">eftajulshadi.dev</a></li>
   </ul>
@@ -101,12 +95,17 @@
   </div>
 </section>
 
+<h3>
+  🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
+  🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
+</h4>
+
 ---
 
 <!-- 📊 GitHub Stats -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📊 GitHub Stats</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
 </div>
