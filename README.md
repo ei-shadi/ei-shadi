@@ -115,11 +115,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </div>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</div>
-
 ---
 
 <div align="center">
@@ -142,6 +137,7 @@
 
 ---
 
-<p align="center" style="font-size: 1.1rem; font-weight: 600; color:#0ea5e9;">
-  "The only way to do great work is to love what you do." – Steve Jobs
-</p>
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
