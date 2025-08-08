@@ -119,7 +119,11 @@
 <!-- 🐍 Contribution Snake -->
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
----
+
+<h1 align="center">✍️ Knowledge</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
 
 <!-- 🎯 Fun Fact -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🎯 Fun Fact</h1>
@@ -127,10 +131,3 @@
 <p align="center" style="font-size: 1.5rem;">
   ☕ I can turn your Figma dreams into fully functional responsive UIs while sipping tea and blasting lo-fi at 2 AM 🌙🎧
 </p>
-
----
-
-<h3 align="center">✍️ Motivat</h3>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</div>
