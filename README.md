@@ -118,7 +118,7 @@
 <!-- 📊 GitHub Stats -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📊 GitHub Stats</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 50px; ">
   <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
 </div>
