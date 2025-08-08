@@ -5,11 +5,24 @@
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=00d8ff&center=true&vCenter=true&width=1400&lines=Hi+!"
+    alt="Typing SVG"
+    style="max-width: 100%; height: auto;" />
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
+  <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=Hi+🖐🏻+Welcome+to+My+Darkside+⚫;I+am+Eftajul+Islam+Shadi+🥷🏻;MERN+Stack+Developer+%7C+Full+Stack+Enthusiast;I+thrive+on+exploring+new+technologies;and+solving+complex+problems"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
 
+<div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=Hi+🖐🏻+Welcome+to+My+Darkside+⚫;I+am+Eftajul+Islam+Shadi+🥷🏻;MERN+Stack+Developer+%7C+Full+Stack+Enthusiast;I+thrive+on+exploring+new+technologies;and+solving+complex+problems"
+    alt="Typing SVG"
+    style="max-width: 100%; height: auto;" />
+</div>
 ---
 
 <!-- 🧑‍💻 About Me -->
@@ -118,11 +131,6 @@
 <!-- 🐍 Contribution Snake -->
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
-
-<h1 align="center">✍️ Knowledge</h3>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</div>
 
 <!-- 🎯 Fun Fact -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🎯 Fun Fact</h1>
