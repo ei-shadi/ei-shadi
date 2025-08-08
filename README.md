@@ -115,13 +115,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </div>
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ei-shadi&icon=0&color=0" />
-  </a>
-</div>
 
 <!-- 🐍 Contribution Snake -->
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
@@ -129,15 +122,15 @@
 ---
 
 <!-- 🎯 Fun Fact -->
-<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🎯 Fun Fact</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🎯 Fun Fact</h1>
 
-<p align="center" style="font-size: 1.25rem; font-style: italic; color:#facc15;">
+<p align="center" style="font-size: 1.5rem;">
   ☕ I can turn your Figma dreams into fully functional responsive UIs while sipping tea and blasting lo-fi at 2 AM 🌙🎧
 </p>
 
 ---
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 align="center">✍️ Motivat</h3>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>
