@@ -19,7 +19,7 @@
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=50&duration=3000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1600&lines=I+am+Eftajul+Islam+Shadi+🥷🏻;Full+Stack+Developer+%7C+MERN+Stack+Developer;I+thrive+on+exploring+new+technologies+and+solving+complex+problems;Building+scalable%2C+high-impact+web+applications👀"
+    src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=50&duration=3000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1700&lines=I+am+Eftajul+Islam+Shadi+🥷🏻;Full+Stack+Developer+%7C+MERN+Stack+Developer;I+thrive+on+exploring+new+technologies+and+solving+complex+problems;Building+scalable%2C+high-impact+web+applications👀"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
