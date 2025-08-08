@@ -13,7 +13,7 @@
 ---
 
 <!-- 🧑‍💻 About Me -->
-<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🧑‍💻 About Me</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🧑‍💻 About Me</h1>
 <h4>
   I'm a passionate full-stack web developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies.
 </h4>
@@ -59,7 +59,7 @@
 ---
 
 <!-- 🛠️ Tech Stack -->
-<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🛠️ Tech Stack</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🛠️ Tech Stack</h1>
 
 <h2>⚡ My Code Runs on These Engines</h2>
 
@@ -74,7 +74,7 @@
 ---
 
 <!-- 📬 Connect With Me -->
-<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">🌐 Connect With Me</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🌐 Connect With Me</h1>
 
 <p style="text-align: center;">Feel free to reach out or connect with me through any platform below. Let’s discuss exciting opportunities!</p>
 
@@ -104,7 +104,7 @@
 ---
 
 <!-- 📊 GitHub Stats -->
-<h1 align="center" style="font-size: 2rem; color: #5CE1E6; margin-top: 3rem;">📊 GitHub Stats</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📊 GitHub Stats</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; max-width: 600px; margin:auto;">
   <div style="display: flex; gap: 24px; justify-content: center; flex-grow:1; min-width: 320px;">
