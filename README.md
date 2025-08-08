@@ -106,15 +106,26 @@
 <!-- 📊 GitHub Stats -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📊 GitHub Stats</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; max-width: 600px; margin:auto;">
-  <div style="display: flex; gap: 24px; justify-content: center; flex-grow:1; min-width: 320px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=dark&hide_border=false" height="180" />
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
 </div>
 
-<div align="center" style="margin-top: 24px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</div>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ei-shadi&icon=0&color=0" />
+  </a>
 </div>
 
 <!-- 🐍 Contribution Snake -->
