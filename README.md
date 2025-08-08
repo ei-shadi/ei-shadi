@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=60&duration=2500&pause=100000&color=b200ff&center=true&vCenter=true&width=1700&lines=🖤Welcome+to+My+Darkside🌚"
+    src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=46&duration=2500&pause=100000&color=b200ff&center=true&vCenter=true&width=1500&lines=🖤Welcome+to+My+Darkside🌚"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
