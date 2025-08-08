@@ -5,21 +5,21 @@
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=38&duration=4000&pause=10000&color=00ffff&center=true&vCenter=true&width=1400&lines=Hi!"
+    src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=38&duration=3000&pause=100000&color=00ffff&center=true&vCenter=true&width=1400&lines=Hi!"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=40&duration=4000&pause=10000&color=b200ff&center=true&vCenter=true&width=1400&lines=🖤+Welcome+to+My+Darkside+⚫"
+    src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&size=40&duration=3000&pause=100000&color=b200ff&center=true&vCenter=true&width=1400&lines=🖤+Welcome+to+My+Darkside+⚫"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=50&duration=4000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=I+am+Eftajul+Islam+Shadi+🥷🏻;Full+Stack+Developer+%7C+MERN+Stack+Developer;I+thrive+on+exploring+new+technologies;and+solving+complex+problems"
+    src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=50&duration=3000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=I+am+Eftajul+Islam+Shadi+🥷🏻;Full+Stack+Developer+%7C+MERN+Stack+Developer;I+thrive+on+exploring+new+technologies;and+solving+complex+problems"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
