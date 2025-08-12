@@ -66,7 +66,7 @@
 ---
 
 <!-- 🛠️ Tech Stack -->
-<h1 align="center" style="font-size: 2rem; margin-top: 3rem;"> Tech Stack 🛠️</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🛠️ Tech Stack</h1>
 
 <h2>⚡ My Code Runs on These Engines</h2>
 
@@ -120,7 +120,7 @@
 
 ---
 <!-- 📈 Current Stats -->
-<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">Performance Overview 📈</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px; ">
   <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
