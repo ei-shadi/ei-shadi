@@ -26,7 +26,7 @@
 
 
 <!-- 🧑‍💻 About Me -->
-<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🧑‍💻 About Me</h1>
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">About Me 🧑‍💻</h1>
 <h4>
   I'm a passionate full-stack web developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies.
 </h4>
@@ -44,7 +44,7 @@
 </ul>
 
 <h3>
-  🚀 Next up in my development journey:
+  <i class="fa-solid fa-laptop-code"></i> Next up in my development journey:
 </h3>
 
 <ul>
