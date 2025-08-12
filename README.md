@@ -94,9 +94,6 @@
     <li><strong>Portfolio:</strong> <a href="https://www.eftajulshadi.dev" target="_blank" style="color: #4EA1D3;">eftajulshadi.dev</a></li>
   </ul>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem; gap: 12px;">
-    <a href="tel:+8801930242273" target="_blank">
-      <img src="https://img.shields.io/badge/Call%20Now-%2300A884?style=for-the-badge&logo=phone&logoColor=white&labelColor=black" alt="Call Now" />
-    </a>
     <a href="https://wa.me/8801930242273" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" alt="WhatsApp" />
     </a>
