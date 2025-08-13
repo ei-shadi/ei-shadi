@@ -37,7 +37,7 @@
 
 <ul>
   <li>HTML, CSS, Tailwind CSS</li>
-  <li>JavaScript & React</li>
+  <li>JavaScript , React & Next.js</li>
   <li>Firebase (Authentication & Firestore)</li>
   <li>Node.js, Express.js</li>
   <li>MongoDB</li>
