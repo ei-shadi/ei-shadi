@@ -81,16 +81,16 @@
 <section id="contact" style="color: #fff; padding: 2rem; background-color: #0e0e0e; border-radius: 10px; max-width: 700px; margin: auto;">
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
     <li><strong>Phone:</strong> <a href="tel:+8801930242273" style="color: #4EA1D3;">+880 1930 242273</a></li>
-    <li><strong>Email:</strong> <a href="mailto:eftajulislam.shaadi@gmail.com" style="color: #4EA1D3;">eftajulislam.shaadi@gmail.com</a></li>
+    <li><strong>Email:</strong> <a href="mailto:eftajul.shadi@gmail.com" style="color: #4EA1D3;">eftajul.shadi@gmail.com</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">linkedin.com/in/eftajulislamshadi</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.facebook.com/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">facebook.com/eftajulislamshadi</a></li>
-    <li><strong>Portfolio:</strong> <a href="https://eftajulislamshadi.netlify.appp" target="_blank" style="color: #4EA1D3;">https://eftajulislamshadi.netlify.appp</a></li>
+    <li><strong>Portfolio:</strong> <a href="https://eftajulislamshadi.netlify.app" target="_blank" style="color: #4EA1D3;">https://eftajulislamshadi.netlify.app</a></li>
   </ul>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem; gap: 12px;">
     <a href="https://wa.me/8801930242273" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" alt="WhatsApp" />
     </a>
-    <a href="mailto:eftajulislam.shaadi@gmail.com" target="_blank">
+    <a href="mailto:eftajul.shadi@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&label=Send%20Email" alt="Gmail" />
     </a>
     <a href="https://www.facebook.com/eftajulislamshadi" target="_blank">
