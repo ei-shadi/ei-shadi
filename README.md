@@ -77,19 +77,6 @@
 
 ---
 
-<!-- 📈 Current Stats -->
-<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
-
-<div align="center" style="display: flex; justify-content: center; gap: 50px; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
-</div>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
-</div>
-
----
-
 <!-- 📬 Connect With Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📞 Connect With Me</h1>
 
@@ -127,6 +114,26 @@
 </h4>
 </section>
 
+
+---
+
+<!-- 📈 Current Stats -->
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
+
+<div align="center" style="display: flex; justify-content: center; gap: 50px; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</div>
+
+<!-- 🐍 Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 ---
 
 <!-- 🎯 Fun Fact -->
@@ -135,10 +142,3 @@
 <p align="center" style="font-size: 1.5rem;">
   ☕ I can turn your Figma dreams into fully functional responsive UIs while sipping tea and blasting lo-fi at 2 AM 🌙🎧
 </p>
-
-
-<!-- 🐍 Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
