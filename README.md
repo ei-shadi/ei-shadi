@@ -77,7 +77,6 @@
 
 ---
 
----
 <!-- 📈 Current Stats -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
 
@@ -89,6 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </div>
 
+---
 
 <!-- 📬 Connect With Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📞 Connect With Me</h1>
@@ -127,7 +127,7 @@
 </h4>
 </section>
 
-
+---
 
 <!-- 🐍 Contribution Snake -->
 <div align="center">
