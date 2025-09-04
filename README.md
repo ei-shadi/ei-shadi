@@ -77,11 +77,6 @@
 
 ---
 
-<h4>
-  🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
-  🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
-</h4>
-
 ---
 <!-- 📈 Current Stats -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
@@ -125,6 +120,11 @@
       <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=black" alt="Portfolio" />
     </a>
   </div>
+
+  <h4>
+  🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
+  🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
+</h4>
 </section>
 
 
