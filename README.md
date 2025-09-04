@@ -129,15 +129,16 @@
 
 ---
 
-<!-- 🐍 Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-
 <!-- 🎯 Fun Fact -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🎯 Fun Fact</h1>
 
 <p align="center" style="font-size: 1.5rem;">
   ☕ I can turn your Figma dreams into fully functional responsive UIs while sipping tea and blasting lo-fi at 2 AM 🌙🎧
 </p>
+
+
+<!-- 🐍 Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
