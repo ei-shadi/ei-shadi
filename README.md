@@ -42,13 +42,6 @@
   <li>AWS for cloud services and deployment</li>
 </ul>
 
-<h3 align="center" style="font-size:1.2rem;">
-  🖤 I love <span style="color:#0ea5e9; font-weight:700;">exploring challenging technologies</span> and 
-  <span style="color:#22c55e; font-weight:700;">leveling up my skills</span><br/>
-  with the latest tools and frameworks to build 
-  <span style="color:#facc15; font-weight:700;">next-gen web apps</span> 🗯️✨
-</h3>
-
 <!-- 📫 Contact Me -->
 <h3 align="center" style="margin-top: 2rem;">📫 Get in Touch</h3>
 <p align="center" style="font-size: 1rem;">
@@ -59,6 +52,12 @@
   <a href="https://wa.me/8801930242273" style="color:#0ea5e9; font-weight:700;">+880 1930 242273</a>
 </p>
 
+<h3 align="center" style="font-size:1.2rem;">
+  🖤 I love <span style="color:#0ea5e9; font-weight:700;">exploring challenging technologies</span> and 
+  <span style="color:#22c55e; font-weight:700;">leveling up my skills</span><br/>
+  with the latest tools and frameworks to build 
+  <span style="color:#facc15; font-weight:700;">next-gen web apps</span> 🗯️✨
+</h3>
 
 ---
 
