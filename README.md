@@ -50,21 +50,14 @@
 </h3>
 
 <!-- 📫 Contact Me -->
-<h3 align="center" style="margin-top: 2rem;">📫 Contact Me</h3>
-<ul align="center" style="list-style: none; padding: 0;">
-  <li>
-    <strong>WhatsApp:</strong> 
-    <a href="https://wa.me/8801930242273" target="_blank" style="color: #25D366; font-weight: 600;">
-      +880 1930 242273
-    </a>
-  </li>
-  <li>
-    <strong>Email:</strong> 
-    <a href="mailto:eftajul.shadi@gmail.com" style="color: #4EA1D3; font-weight: 600;">
-      eftajul.shadi@gmail.com
-    </a>
-  </li>
-</ul>
+<h3 align="center" style="margin-top: 2rem;">📫 Get in Touch</h3>
+<p align="center" style="font-size: 1rem;">
+  <strong>Email:</strong> 
+  <a href="mailto:eftajul.shadi@gmail.com" style="color:#4EA1D3; font-weight:700;">eftajul.shadi@gmail.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>WhatsApp:</strong> 
+  <a href="https://wa.me/8801930242273" style="color:#0ea5e9; font-weight:700;">+880 1930 242273</a>
+</p>
 
 
 ---
