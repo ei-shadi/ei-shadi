@@ -17,6 +17,8 @@
     style="max-width: 100%; height: auto;" />
 </div>
 
+---
+
 <!-- 🧑‍💻 About Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🧑‍💻 About Me</h1>
 <h4>
