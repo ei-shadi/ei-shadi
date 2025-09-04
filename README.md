@@ -19,7 +19,6 @@
 
 <!-- 🧑‍💻 About Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🧑‍💻 About Me</h1>
----
 <h4>
   I'm a passionate MERN Stack Developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies.
 </h4>
