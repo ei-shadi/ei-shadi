@@ -17,33 +17,26 @@
     style="max-width: 100%; height: auto;" />
 </div>
 
-
 <!-- 🧑‍💻 About Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🧑‍💻 About Me</h1>
 <h4>
   I'm a passionate MERN Stack Developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind, and JavaScript. I love creating dynamic user experiences with React and Firebase, and building robust backends using Node.js, Express.js, and MongoDB. I enjoy transforming ideas into clean, functional code and delivering end-to-end solutions with modern technologies.
 </h4>
 
-<h3>
-  💡 What I've learned so far:
-</h3>
-
+<h3>💡 What I've learned so far:</h3>
 <ul>
   <li>HTML, CSS, Tailwind CSS</li>
-  <li>JavaScript , React & Next.js</li>
+  <li>JavaScript, React & Next.js</li>
   <li>Firebase (Authentication & Firestore)</li>
   <li>Node.js, Express.js</li>
   <li>MongoDB</li>
 </ul>
 
-<h3>
-  🌟 Next up in my development journey:
-</h3>
-
+<h3>🌟 Next up in my development journey:</h3>
 <ul>
   <li>TypeScript</li>
   <li>Redux for state management</li>
-  <li>Master Next.js for professional-grade server-side rendering.</li>
+  <li>Master Next.js for professional-grade server-side rendering</li>
   <li>SQL, PostgreSQL & Prisma for advanced database handling</li>
   <li>Docker for containerization</li>
   <li>AWS for cloud services and deployment</li>
@@ -56,7 +49,58 @@
   <span style="color:#facc15; font-weight:700;">next-gen web apps</span> 🗯️✨
 </h3>
 
+<!-- 📫 Contact Me -->
+<h3 align="center" style="margin-top: 2rem;">📫 Contact Me</h3>
+<ul align="center" style="list-style: none; padding: 0;">
+  <li>
+    <strong>WhatsApp:</strong> 
+    <a href="https://wa.me/8801930242273" target="_blank" style="color: #25D366; font-weight: 600;">
+      +880 1930 242273
+    </a>
+  </li>
+  <li>
+    <strong>Email:</strong> 
+    <a href="mailto:eftajul.shadi@gmail.com" style="color: #4EA1D3; font-weight: 600;">
+      eftajul.shadi@gmail.com
+    </a>
+  </li>
+</ul>
+
+
 ---
+
+
+<!-- 🛠️ Tech Stack -->
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🛠️ Tech Stack</h1>
+
+<h2>⚡ My Code Runs on These Engines</h2>
+
+| **Skills Overview**       | **Technologies**                                                                                                                                                          |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs) |
+| **Back-End Development**  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Database**              | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools & Platforms**     | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+<h4>
+  🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
+  🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
+</h4>
+
+---
+<!-- 📈 Current Stats -->
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
+
+<div align="center" style="display: flex; justify-content: center; gap: 50px; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</div>
 
 
 <!-- 📬 Connect With Me -->
@@ -91,39 +135,6 @@
   </div>
 </section>
 
-
-
-<!-- 🛠️ Tech Stack -->
-<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🛠️ Tech Stack</h1>
-
-<h2>⚡ My Code Runs on These Engines</h2>
-
-| **Skills Overview**       | **Technologies**                                                                                                                                                          |
-|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) |
-| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs) |
-| **Back-End Development**  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Database**              | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools & Platforms**     | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
----
-
-<h4>
-  🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
-  🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
-</h4>
-
----
-<!-- 📈 Current Stats -->
-<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
-
-<div align="center" style="display: flex; justify-content: center; gap: 50px; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
-</div>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
-</div>
 
 
 <!-- 🐍 Contribution Snake -->
