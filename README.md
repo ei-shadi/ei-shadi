@@ -99,14 +99,14 @@
     <a href="mailto:eftajul.shadi@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&label=Send%20Email" alt="Gmail" />
     </a>
-    <a href="https://www.facebook.com/eftajulislamshadi" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" alt="Facebook" />
-    </a>
     <a href="https://linkedin.com/in/eftajulislamshadi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
     </a>
     <a href="https://eftajulislamshadi.netlify.appp" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=black" alt="Portfolio" />
+    </a>
+      <a href="https://www.facebook.com/eftajulislamshadi" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" alt="Facebook" />
     </a>
   </div>
 
