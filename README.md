@@ -110,10 +110,10 @@
     </a>
   </div>
 
-  <h4>
+  <h3>
   🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
   🤝 I thrive in collaborative environments, value open communication, and enjoy contributing to the global tech community through learning and sharing.
-</h4>
+</h3>
 </section>
 
 
