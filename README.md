@@ -21,7 +21,7 @@
 
 <!-- 🧑‍💻 About Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🧑‍💻 About Me</h1>
-<h4>
+<h4 style="font-size: 2rem;>
   I'm a passionate MERN Stack Developer skilled in building responsive, high-performance web applications using HTML, CSS, Tailwind CSS, and JavaScript. I specialize in creating dynamic, user-friendly interfaces with React and Next.js, as well as developing secure, scalable backends with Node.js, Express.js, and MongoDB. I also work with Firebase for real-time features and authentication. I enjoy turning ideas into clean, efficient code and delivering end-to-end solutions using modern web technologies.
 </h4>
 
