@@ -28,7 +28,7 @@
 <h3>💡 What I've learned so far:</h3>
 <ul>
   <li>HTML, CSS, Tailwind CSS</li>
-  <li>JavaScript, React & Next.js</li>
+  <li>JavaScript, TypeScript, React & Next.js</li>
   <li>Firebase (Authentication & Firestore)</li>
   <li>Node.js, Express.js</li>
   <li>MongoDB</li>
@@ -36,7 +36,6 @@
 
 <h3>🌟 Next up in my development journey:</h3>
 <ul>
-  <li>TypeScript</li>
   <li>Redux for state management</li>
   <li>SQL, PostgreSQL & Prisma for advanced database handling</li>
   <li>Docker for containerization</li>
