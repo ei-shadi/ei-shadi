@@ -87,7 +87,7 @@
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
     <li><strong>Phone:</strong> <a href="tel:+8801930242273" style="color: #4EA1D3;">+880 1930 242273 (Whatsapp)</a></li>
     <li><strong>Email:</strong> <a href="mailto:eftajul.shadi@gmail.com" style="color: #4EA1D3;">eftajul.shadi@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">linkedin.com/in/eftajulislamshadi</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eftajul-islam-shadi" target="_blank" style="color: #4EA1D3;">linkedin.com/in/eftajulislamshadi</a></li>
     <li><strong>Portfolio:</strong> <a href="https://eftajulislamshadi.vercel.app" target="_blank" style="color: #4EA1D3;">https://eftajulislamshadi.vercel.app</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.facebook.com/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">facebook.com/eftajulislamshadi</a></li>
   </ul>
@@ -98,7 +98,7 @@
     <a href="mailto:eftajul.shadi@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&label=Send%20Email" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/eftajulislamshadi" target="_blank">
+    <a href="https://linkedin.com/in/eftajul-islam-shadi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
     </a>
     <a href="https://eftajulislamshadi.vercel.app" target="_blank">
