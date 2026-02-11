@@ -40,7 +40,6 @@
   <li>SQL, PostgreSQL & Prisma for advanced database handling</li>
   <li>Docker for containerization</li>
   <li>AWS for cloud services and deployment</li>
-  <li>React Native for mobile app development</li>
 </ul>
 
 <!-- 📫 Contact Me -->
