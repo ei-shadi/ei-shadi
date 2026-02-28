@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ei-shadi/ei-shadi/refs/heads/main/Banner.png" alt="Welcome Banner" style="border-radius:12px; max-width:100%; height:auto;" />
+  <img src="https://raw.githubusercontent.com/ei-shadi/ei-shadi/refs/heads/main/Banner.jpeg" alt="Welcome Banner" style="border-radius:12px; max-width:100%; height:auto;" />
 </p>
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
